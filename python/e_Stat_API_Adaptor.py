@@ -1,5 +1,14 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+# # # # # # # # # # # # # # # # # # # # # # # # 
+#
+#  e-Stat API Adaptor
+#  (c) 2016 National Statistics Center
+#  License: MIT
+#  
+# # # # # # # # # # # # # # # # # # # # # # # # 
+
 import os
 import subprocess
 import unicodedata
